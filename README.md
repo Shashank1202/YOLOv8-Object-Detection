@@ -1,7 +1,7 @@
 # YOLOv8-Object-Detection
 
 # Result
-![result/final.png]
+![Final_result](result/final.png)
 
 # How to run?
 ### STEPS:
