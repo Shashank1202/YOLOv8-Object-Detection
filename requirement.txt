@@ -1,0 +1,10 @@
+ultralytics
+PIL
+torch
+cv2
+flask
+requests
+shutil
+tensorflow
+werkzeug
+subprocess
